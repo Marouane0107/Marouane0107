@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I'm a passionate developer focused on building eng
 - 💻 Main stack: **JavaScript**, **CSS**, **HTML**, **C**, **C++**, **Python** 
 - 🎯 Interests: Frontend development, UI/UX, personal growth, and open source.
 - 💬 Ask me about web development, JavaScript, or anything tech-related!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marouane-aouzal-101b43253/?trk=public-profile-join-page) | [Email](marouaneaouzal@gamil.com)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/marouane0107/" target="_blank">LinkedIn</a> | <a href="mailto:marouaneaouzal@gmail.com" target="_blank">Send Message</a>
 - ⚡ Fun fact: I love exploring new frameworks and bringing creative ideas to life.
 
 ## 🛠️ Technologies & Tools
