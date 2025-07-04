@@ -32,10 +32,6 @@ Welcome to my GitHub profile. I'm a passionate developer focused on building eng
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-
-![Marouane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marouane0107&show_icons=true&theme=radical)
-
 ## ✨ Featured Project
 
 Check out my [Portfolio](https://portfolio-taupe-psi-29.vercel.app/) 
